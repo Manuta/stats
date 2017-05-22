@@ -4,11 +4,11 @@
 	<meta charset="utf-8" />
 <title></title></head>
 <body>
-	<header></header
->
-<nav>
-
-</nav>
-<footer>
-</foote
-></body></html>
+	<header></header>
+	<nav>
+		654654
+	</nav>
+	<footer>
+	</footer>
+</body>
+</html> 
